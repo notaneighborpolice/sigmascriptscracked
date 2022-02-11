@@ -1,0 +1,19 @@
+﻿  Menu.cpp
+C:\Users\leehe\Downloads\SexyScript-main (2)\SexyScript-main\Recoil\Menu.cpp(215,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\leehe\Downloads\SexyScript-main (2)\SexyScript-main\Recoil\Menu.cpp(216,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\leehe\Downloads\SexyScript-main (2)\SexyScript-main\Recoil\Menu.cpp(223,57): warning C4244: 'argument': conversion from 'float' to 'BYTE', possible loss of data
+C:\Users\leehe\Downloads\SexyScript-main (2)\SexyScript-main\Recoil\Menu.cpp(406,35): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\leehe\Downloads\SexyScript-main (2)\SexyScript-main\Recoil\Menu.cpp(415,47): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\leehe\Downloads\SexyScript-main (2)\SexyScript-main\Recoil\Menu.cpp(424,46): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\leehe\Downloads\SexyScript-main (2)\SexyScript-main\Recoil\Menu.cpp(430,35): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\leehe\Downloads\SexyScript-main (2)\SexyScript-main\Recoil\Menu.cpp(439,47): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\leehe\Downloads\SexyScript-main (2)\SexyScript-main\Recoil\Menu.cpp(448,45): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\leehe\Downloads\SexyScript-main (2)\SexyScript-main\Recoil\Menu.cpp(454,35): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\leehe\Downloads\SexyScript-main (2)\SexyScript-main\Recoil\Menu.cpp(463,47): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\leehe\Downloads\SexyScript-main (2)\SexyScript-main\Recoil\Menu.cpp(472,46): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Generating code
+  65 of 1809 functions ( 3.6%) were compiled, the rest were copied from previous compilation.
+    61 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Recoil.vcxproj -> C:\Users\leehe\Downloads\SexyScript-main (2)\SexyScript-main\x64\Release\Recoil.exe
